@@ -1,4 +1,4 @@
-# BD-Actividad1
+# Big DATA
 Actividades y Trabajos practicos para la materia BIGDATA
 ## Actividad 1
 
